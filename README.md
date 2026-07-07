@@ -1,4 +1,4 @@
-# Alumni Management System with Social Media
+# Alumni Management System with Social Media SaaS
 
 Note: Alumni Management System with Social Media is on Master Branch
 <img width="1920" height="1032" alt="Picture in picture 16_08_2025 9_20_39 pm" src="https://github.com/user-attachments/assets/98c04329-8cc7-4965-babc-4cf0c6b5f87f" />
