@@ -1,4 +1,27 @@
-# Alumni Management System with Social Media
+# Alumni Tracker with Social Media & Geo Visualization
+
+A social platform connecting alumni and tracking their career paths geographically in real
+time via the Google Maps API. Batch-based communication tools and a versioned REST API keep
+graduates engaged with their institution long after they have left. By Joven Andrei Lagahit
+(NythosX).
+
+## Tech Stack
+
+- Laravel — REST API with proper versioning
+- Vue.js + Inertia.js — frontend
+- MySQL — data layer
+- Google Maps API — real-time geo-tracking of alumni
+
+## Impact
+
+- Real-time geo-tracking of alumni via the Google Maps API
+- RESTful architecture with proper API versioning, letting the platform evolve without breaking existing clients
+- Enhanced alumni engagement through a batch communication system for graduating cohorts
+
+Full write-up: https://nythosx.pages.dev/projects/alumni-tracker
+
+---
+
 
 Note: Alumni Management System with Social Media is on Master Branch
 <img width="1920" height="1032" alt="Picture in picture 16_08_2025 9_20_39 pm" src="https://github.com/user-attachments/assets/98c04329-8cc7-4965-babc-4cf0c6b5f87f" />
